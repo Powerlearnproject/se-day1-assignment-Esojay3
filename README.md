@@ -55,3 +55,4 @@ Prompt engineering helps avoid that by making your questions clear and specific,
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 example of a vague prompt is "write an article about the highest goal scorer"
 by making it clear we can say "write an article about the highest goal scorer in the uefa champions league"
+the improved prompt makes the article concise.
